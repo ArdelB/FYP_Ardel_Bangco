@@ -1,0 +1,11 @@
+Version 1
+Only outputted level 0 prediction of feature integration
+
+Version 2
+Learnt to incorporate recursive prediction, however there are still artifacts in the prediction
+
+Version 3
+Added boundary refinement, and improved upsampling
+
+Version 4
+Outputted all level predictions for deep supervision
